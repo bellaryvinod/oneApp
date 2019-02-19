@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>MeraTable</name>
+        <order>1</order>
+        <roles>x_306332_meraapp.meratable_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-19 10:11:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2b7796d8dbb3230055279fd2ca96191e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MeraTable</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MeraApp" source="x_306332_meraapp">41c05290dbb3230055279fd2ca961970</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MeraApp">41c05290dbb3230055279fd2ca961970</sys_scope>
+        <sys_update_name>sys_ui_application_2b7796d8dbb3230055279fd2ca96191e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-19 10:20:18</sys_updated_on>
+    </sys_ui_application>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="MeraTable" max_length="40" name="x_306332_meraapp_meratable" type="collection">
+        <element display="true" label="FullName" max_length="100" name="fullname" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_306332_meraapp_meratable">x_306332_meraapp_meratable</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>MER</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-19 10:11:59</sys_created_on>
+        <sys_id>ff7796d8dbb3230055279fd2ca961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MER</sys_name>
+        <sys_package display_value="MeraApp" source="x_306332_meraapp">41c05290dbb3230055279fd2ca961970</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MeraApp">41c05290dbb3230055279fd2ca961970</sys_scope>
+        <sys_update_name>sys_number_ff7796d8dbb3230055279fd2ca961975</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-19 10:11:59</sys_updated_on>
+    </sys_number>
+</record_update>
