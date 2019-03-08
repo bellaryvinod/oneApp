@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="eee06e10dbf3230055279fd2ca96195a" sys_domain="global" table="x_306332_meraapp_needitapp" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-19 10:53:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eee06e10dbf3230055279fd2ca96195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_306332_meraapp_needitapp" name="x_306332_meraapp_needitapp" sys_domain="global" view="Default view">eee06e10dbf3230055279fd2ca96195a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_306332_meraapp_needitapp" sys_domain="global" view="Default view">1e202610dbf3230055279fd2ca961909</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-19 10:53:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-19 10:53:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aae06e10dbf3230055279fd2ca96195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_306332_meraapp_needitapp" name="x_306332_meraapp_needitapp" sys_domain="global" view="Default view">eee06e10dbf3230055279fd2ca96195a</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_306332_meraapp_needitapp" sys_domain="global" view="Default view">e2e06e10dbf3230055279fd2ca96195a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-19 10:53:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_306332_meraapp_needitapp</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-19 10:53:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eee06e10dbf3230055279fd2ca96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_306332_meraapp_needitapp</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MeraApp" source="x_306332_meraapp">41c05290dbb3230055279fd2ca961970</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MeraApp">41c05290dbb3230055279fd2ca961970</sys_scope>
+            <sys_update_name>sys_ui_form_sections_eee06e10dbf3230055279fd2ca96195a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-19 10:53:08</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
